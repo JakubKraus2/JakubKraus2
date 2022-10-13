@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [2D platformer game in Godot engine](https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
 
-- 🌱 I’m currently learning **gdscript**
+- 🌱 I’m currently learning **GDScript**
 
 - ⚡ Fun fact **¯\\_(ツ)_/¯**
 
