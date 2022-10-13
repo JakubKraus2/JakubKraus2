@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy 👋, I'm Jakub Kraus</h1>
-<h3 align="center">I like cats</h3>
+<h3 align="center">Cat addict</h3>
 
 - 🔭 I’m currently working on [2D platformer in Godot engine](https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
 
