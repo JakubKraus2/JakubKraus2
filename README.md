@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **gdscript**
 
-- ⚡ Fun fact **¯\_(ツ)_/¯**
+- ⚡ Fun fact **¯\\_(ツ)_/¯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
