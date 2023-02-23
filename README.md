@@ -1,6 +1,3 @@
-<h1 align="center">Heyyy 👋, I'm Jakub Kraus</h1>
-<h3 align="center">Cat addict</h3>
-
 <div align="center">
 <img src="https://c.tenor.com/bZiXaZuRffgAAAAC/drax47-cat.gif">
 </div>
