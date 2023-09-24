@@ -5,10 +5,10 @@
 <img src="https://media.tenor.com/zBdbio-Y0HUAAAAd/monkey-keyboard.gif" height="70%" width="70%">
 </div>
 
-- 🧠 I’m currently working on regaining my sanity because of the **[Unity drama](https://twitter.com/unity/status/1701650081403842851)**
+- 🧠 I’m currently working on regaining my sanity over the **[Unity drama](https://twitter.com/unity/status/1701650081403842851)**
 - 💬 Ask me about anything related to **Game Development**
 - 🖥 I’m currently improving in **Godot, Unity**
-- ⚡ Fun fact **I'm cats and coffee addict☕🐈**
+- ⚡ Fun fact **I'm cats enthusiast and coffee addict☕🐈**
 
 ### Connect with me
 <p>
