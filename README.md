@@ -60,7 +60,6 @@
   <br>
   <br>
   <br>
-  <br>
   
   <!-- Third project -->
   <a href="https://github.com/JakubKraus2/tap-tower">
