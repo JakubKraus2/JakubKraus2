@@ -36,13 +36,13 @@
     </table>
   </a>
   <h3>Purpura</h3>
-  <p>Purpura is my final school project, that took approximately 5 months to develop. This project showcases my expertise in game design and programming. It's a 2D RPG platformer that goes hard on the RPG element. Player can defeat bosses, acquire new abilities, such     as double jump or wall climb, unlock new active skills and discover variety of equipment, that alters the gameplay experience. The game was developed in Godot engine and showcased in <a href="https://stretech.fs.cvut.cz/2023/sbornik_2023/pdf/59.pdf">Stretech 2023.      </a> The art was made by <a href="https://penusbmic.itch.io/">Penusbmic</a> with some minor alterations.</p>
+  <p>Purpura is my final school project, that took approximately 5 months to develop. This project showcases my expertise in game design and programming. It's a 2D RPG platformer that goes hard on the RPG element. Player can defeat bosses, acquire new abilities, such     as double jump or wall climb, unlock new active skills and discover variety of equipment, that alters the gameplay experience. The game was developed in Godot engine and showcased in <a href="https://stretech.fs.cvut.cz/2023/sbornik_2023/pdf/59.pdf">Stretech 2023.      </a> The art was made by <a href="https://penusbmic.itch.io/">Penusbmic</a> with some minor alterations. You can checkout the gameplay <a href="https://youtu.be/LIHY1_ldrYg">here</a>.</p>
   <br>
   <br>
   <br>
   
   <!-- Second project -->
-  <a href="">
+  <a href="https://github.com/JakubKraus2/game-jam">
       <table align="left">
         <tr>
           <td><img src="https://github.com/JakubKraus2/JakubKraus2/blob/main/images/Apothechef/gamePlay1.png?raw=true", height="120"></td>
@@ -62,7 +62,7 @@
   <br>
   
   <!-- Third project -->
-  <a href="">
+  <a href="https://github.com/JakubKraus2/tap-tower">
       <table align="left">
         <tr>
           <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/QuickClick/startGame.png", height="240"></td>
