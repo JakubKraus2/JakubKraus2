@@ -24,29 +24,62 @@
 <div>
   <!-- First project -->
   <a href="">
-    <img align="left" src="" height="220" />
+      <table align="left">
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+    </table>
   </a>
   <h3>Purpura</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus</p>
+ 
   <br>
   <br>
   <br>
-  <br>
-  <br>
+  
   <!-- Second project -->
   <a href="">
-    <img align="left" src="" height="220" />
+      <table align="left">
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+    </table>
   </a>
   <h3>Apothechef</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus</p>
+  
   <br>
   <br>
-  <br>
-  <br>
+  
   <!-- Third project -->
   <a href="">
-    <img align="left" src="" height="220" />
+      <table align="left">
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+        <tr>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+          <td><img src="", height="70"></td>
+        </tr>
+    </table>
   </a>
   <h3>Quick Click</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus</p>
 </div>
