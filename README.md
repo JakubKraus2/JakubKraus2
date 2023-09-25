@@ -59,22 +59,19 @@
   
   <br>
   <br>
+  <br>
   
   <!-- Third project -->
   <a href="">
       <table align="left">
         <tr>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/QuickClick/startGame.png", height="240"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/QuickClick/gamePlay1.png", height="240"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/QuickClick/gamePlay2.png", height="240"></td>
         </tr>
-        <tr>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
         </tr>
     </table>
   </a>
   <h3>Quick Click</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus</p>
+  <p>I challenged myself to find out how quickly can I create a working mobile game, it's also my first attempt at making one. The game turned out to be fast paced idle clicker, where the player must click on the correct side of the screen. Player gains score per correct jump. The project was also made in Godot engine and took 8 hours to develop. You can find it on <a href="https://play.google.com/store/apps/details?id=com.jakubkraus.quickclick">google play.</a></p>
 </div>
