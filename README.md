@@ -36,7 +36,7 @@
     </table>
   </a>
   <h3>Purpura</h3>
-  <p>Purpura is my final school project, that took approximately 5 months to develop. This project showcases my expertise in game design and programming. It's a 2D RPG platformer that goes hard on the RPG element. Player can defeat bosses, acquire new abilities, such     as double jump or wall climb, unlock new active skills and discover variety of equipment, that alters the gameplay experience. The game was developed in Godot engine and showcased in <a href="https://stretech.fs.cvut.cz/2023/sbornik_2023/pdf/59.pdf">Stretech 2023.      </a> The art was made by <a href="https://penusbmic.itch.io/">Penusbmic</a> with some minor alterations</p>
+  <p>Purpura is my final school project, that took approximately 5 months to develop. This project showcases my expertise in game design and programming. It's a 2D RPG platformer that goes hard on the RPG element. Player can defeat bosses, acquire new abilities, such     as double jump or wall climb, unlock new active skills and discover variety of equipment, that alters the gameplay experience. The game was developed in Godot engine and showcased in <a href="https://stretech.fs.cvut.cz/2023/sbornik_2023/pdf/59.pdf">Stretech 2023.      </a> The art was made by <a href="https://penusbmic.itch.io/">Penusbmic</a> with some minor alterations.</p>
   <br>
   <br>
   <br>
@@ -45,19 +45,17 @@
   <a href="">
       <table align="left">
         <tr>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
+          <td><img src="https://github.com/JakubKraus2/JakubKraus2/blob/main/images/Apothechef/gamePlay1.png?raw=true", height="120"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/Apothechef/mixingSubstances.png", height="120"></td>
         </tr>
         <tr>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
-          <td><img src="", height="70"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/Apothechef/dialog.png", height="120"></td>
+          <td><img src="https://raw.githubusercontent.com/JakubKraus2/JakubKraus2/main/images/Apothechef/pong.png", height="120"></td>
         </tr>
     </table>
   </a>
   <h3>Apothechef</h3>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus</p>
+  <p>Game created for the 13th Pirate Software Game Jam, the theme for this jam was "Do no harm". The player is working as a doctor's assistant, their task is to find and mix substances in correct order to make medicine and save the patients, but first, the player must solve puzzles to acquire said substances. The game was developed in Godot engine and has its own <a href="https://jakubik.itch.io/apothechef">Itch.io</a> page! Most of the art was made by <a href="https://github.com/konerzajakub">konerzajakub</a>.</p>
   
   <br>
   <br>
