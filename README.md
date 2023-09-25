@@ -19,5 +19,34 @@
 
 <hr></hr>
 
-<!--## Recent projects 1.rpg game, 2.Apothechef, 3.QuickClick -->
-<!-- First project -->
+## Recent projects
+<!-- 1.rpg game, 2.Apothechef, 3.QuickClick -->
+<div>
+  <!-- First project -->
+  <a href="">
+    <img align="left" src="" height="220" />
+  </a>
+  <h3>Purpura</h3>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <!-- Second project -->
+  <a href="">
+    <img align="left" src="" height="220" />
+  </a>
+  <h3>Apothechef</h3>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <!-- Third project -->
+  <a href="">
+    <img align="left" src="" height="220" />
+  </a>
+  <h3>Quick Click</h3>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam ornare wisi eu metus. Etiam neque. Proin mattis lacinia justo. In rutrum. Aenean id metus id velit ullamcorper pulvinar. Integer vulputate sem a nibh rutrum consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc tincidunt ante vitae massa. Vestibulum fermentum tortor id mi. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Integer lacinia.</p>
+</div>
